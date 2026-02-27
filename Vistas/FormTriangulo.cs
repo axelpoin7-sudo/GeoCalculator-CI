@@ -4,12 +4,12 @@ using System.Windows.Forms;
 using GeoApp.Models;
 namespace GeoApp
 {
-    public class FormRectangulo : Form
+    public class FormTriangulo : Form
     {
-        private TextBox txtBase = new TextBox { Location = newPoint(100, 20) };
-        private TextBox txtAltura = new TextBox { Location = newPoint(100, 50) };
+        private TextBox txtBase = new TextBox { Location = new Point(100, 20) };
+        private TextBox txtAltura = new TextBox { Location = new Point(100, 50) };
         private Button btnCalcular = new Button { Text ="Calcular", Location = new Point(100, 80) };
-        public FormRectangulo()
+        public FormTriangulo()
         {
             this.Controls.Add(new Label { Text = "Base:", Location= new Point(20, 20) });
             this.Controls.Add(txtBase);

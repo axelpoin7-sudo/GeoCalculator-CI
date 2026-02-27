@@ -1,0 +1,6 @@
+E:\GeoCalculator-CI\obj\Debug\net9.0-windows\GeoApp.csproj.AssemblyReference.cache
+E:\GeoCalculator-CI\obj\Debug\net9.0-windows\GeoApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\GeoCalculator-CI\obj\Debug\net9.0-windows\GeoApp.AssemblyInfoInputs.cache
+E:\GeoCalculator-CI\obj\Debug\net9.0-windows\GeoApp.AssemblyInfo.cs
+E:\GeoCalculator-CI\obj\Debug\net9.0-windows\GeoApp.csproj.CoreCompileInputs.cache
+E:\GeoCalculator-CI\obj\Debug\net9.0-windows\GeoApp.sourcelink.json
